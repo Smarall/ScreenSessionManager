@@ -1,0 +1,9 @@
+{
+  "name": "Minecraft Vanilla",
+  "version": "1.0",
+  "absolutePath": "/home/ubuntu/gameserver/MinecraftVanilla/",
+  "startCommand": "java -server -Xmx6G -Xms4G -jar server.jar nogui",
+  "startParameters": "",
+  "stopCommand": "stopserver",
+  "additionalCommands": ""
+}
